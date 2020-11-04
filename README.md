@@ -25,12 +25,18 @@ EXPECTED CHANGE: In order to create an element inside a document inside a collec
 For now use this one to play with to understand how it works.
 
 **TROUBLESHOOTING**
-1)Make sure that the internal clock of your computer works correctly. Otherwise it will through you a permission error.
+1) Make sure that the internal clock of your computer works correctly. Otherwise it will through you a permission error.
+
 2)Run the server first and after the client.
+
 3)Make sure, that you have the key.json in the folder theKey which is in the correct position inside the server.
+
 4)On your java instance, if you wish to use it as a client for our server you just have to insert and use the classes that we provide. Nothing else is necessary, (no frameworks or external libraries), but please don't edit those 2 classes for any reason.
+
 5)The server is to be used. apart of the folder with the key and the key itself, and of course the run and stop features of the project, nothing else is to be touched
+
 6)OPEN the server project with the Intellij idea. DO NOT IMPORT IT. Importing it will create new dependencies that are not connected propely.
+
 7)ingore the warnings in the build of the server. they are unavoidable and they don't play any role to the functionality of the server.
 
 
