@@ -1,5 +1,13 @@
-Soldified Version v1.0
+Java Server for Connection to Firestore, (Soldified Version) v1.0
 ==================================
+
+ - Ingemar Lundh 
+ - Lavdim Imeri 
+ - Robert Alm
+
+Our project is based on the following initial project:
+https://github.com/Exarchias/Gradle-Java-to-Firestore
+
 
 To use this project you need to aquire a json private key from your Firebase project
 
