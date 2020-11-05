@@ -43,6 +43,6 @@ For now use this one to play with to understand how it works.
 
 
 
-(Ingemar please delete this line)
+
 
 (Lavdim please delete this line)
