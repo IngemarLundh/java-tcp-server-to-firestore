@@ -40,9 +40,4 @@ For now use this one to play with to understand how it works.
 7) ingore the warnings in the build of the server. they are unavoidable and they don't play any role to the functionality of the server.
 
 
-
-
-
-(Ingemar please delete this line)
-
 (Lavdim please delete this line)
